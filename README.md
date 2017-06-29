@@ -20,3 +20,10 @@ A cheat sheet for digital forensics :blush:
 [Saturated FAT](https://github.com/kanglib/edu_for/raw/master/saturated.zip)
 
 ### NTFS
+
+### HFS+
+
+### Android
+
+## Further reading
+[Deus ex machina](https://lmgtfy.com/)
